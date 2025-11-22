@@ -100,18 +100,17 @@ like][literals] are not warned about.
 
 ## Integrations
 
-*   Sublime — [`sindresorhus/SublimeLinter-contrib-alex`](https://github.com/sindresorhus/SublimeLinter-contrib-alex)
-*   Gulp — [`dustinspecker/gulp-alex`](https://github.com/dustinspecker/gulp-alex)
-*   Slack — [`keoghpe/alex-slack`](https://github.com/keoghpe/alex-slack)
-*   Ember — [`yohanmishkin/ember-cli-alex`](https://github.com/yohanmishkin/ember-cli-alex)
-*   Probot — [`swinton/linter-alex`](https://github.com/swinton/linter-alex)
-*   GitHub Actions — [`brown-ccv/alex-recommends`](https://github.com/marketplace/actions/alex-recommends)
-*   GitHub Actions (reviewdog) — [`reviewdog/action-alex`](https://github.com/marketplace/actions/run-alex-with-reviewdog)
-*   Vim — [`w0rp/ale`](https://github.com/w0rp/ale),
-    [`Freed-Wu/coc-alex`](https://github.com/Freed-Wu/coc-alex)
 *   Browser extension — [`skn0tt/alex-browser-extension`](https://github.com/skn0tt/alex-browser-extension)
-*   Contentful - [`stefanjudis/alex-js-contentful-ui-extension`](https://github.com/stefanjudis/alex-js-contentful-ui-extension)
-*   Figma - [`nickradford/figma-plugin-alex`](https://github.com/nickradford/figma-plugin-alex)
+*   Contentful — [`stefanjudis/alex-js-contentful-ui-extension`](https://github.com/stefanjudis/alex-js-contentful-ui-extension)
+*   Ember — [`yohanmishkin/ember-cli-alex`](https://github.com/yohanmishkin/ember-cli-alex)
+*   ESLint — [`simek/eslint-plugin-alex`](https://github.com/simek/eslint-plugin-alex)
+*   Figma — [`nickradford/figma-plugin-alex`](https://github.com/nickradford/figma-plugin-alex)
+*   GitHub Actions — [`brown-ccv/alex-recommends`](https://github.com/marketplace/actions/alex-recommends), [`reviewdog/action-alex`](https://github.com/marketplace/actions/run-alex-with-reviewdog)
+*   Gulp — [`dustinspecker/gulp-alex`](https://github.com/dustinspecker/gulp-alex)
+*   Probot — [`swinton/linter-alex`](https://github.com/swinton/linter-alex)
+*   Slack — [`keoghpe/alex-slack`](https://github.com/keoghpe/alex-slack)
+*   Sublime — [`sindresorhus/SublimeLinter-contrib-alex`](https://github.com/sindresorhus/SublimeLinter-contrib-alex)
+*   Vim — [`w0rp/ale`](https://github.com/w0rp/ale), [`Freed-Wu/coc-alex`](https://github.com/Freed-Wu/coc-alex)
 *   VSCode - [`tlahmann/vscode-alex`](https://github.com/tlahmann/vscode-alex)
 
 ## Ignoring files
